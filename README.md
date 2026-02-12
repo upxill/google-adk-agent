@@ -63,7 +63,7 @@ root_agent = Agent(..., tools=[
 
 ## Notes
 
-- If you previously added an `mcp.yml` manifest and want to remove MCP metadata, delete that file from the agent folder.
+
 - Keep secrets out of the repo. Use `.env` and OS-level secret managers for production keys.
 
 ## Troubleshooting
